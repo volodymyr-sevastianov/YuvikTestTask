@@ -1,0 +1,17 @@
+.grid{
+    margin-top: 35px !important;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    overflow: hidden !important;
+    justify-content: space-around !important; 
+    height: 100% !important;
+}
+.gridList{
+    flex-wrap: nowrap !important;
+    padding-left: 20px !important;
+    transform: translateZ(0);
+    height: 100% !important;
+}
+.spacing{
+    margin-left: 15px;
+}
